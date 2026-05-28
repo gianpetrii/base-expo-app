@@ -73,4 +73,3 @@ Sugerencia: [Mejora identificada] - ¿te gustaría implementarla?"
 - Tipado estricto cuando el proyecto use TypeScript
 - Cambios acotados al alcance pedido; evitar refactors colaterales
 - ❌ No crear archivos de documentación `.md` (README, CHANGELOG, etc.) salvo pedido explícito
-W
