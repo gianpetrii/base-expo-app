@@ -20,15 +20,15 @@ Acelera el arranque de apps React Native con navegación por archivos, estilos u
 ## Instalación
 
 ```bash
-npm install
-npx expo start
+pnpm install
+pnpm start
 ```
 
-Scripts: `npm run android`, `npm run ios`, `npm run web`.
+Scripts: `pnpm android`, `pnpm ios`, `pnpm web`.
 
 ## Variables de entorno
 
-Copiá [`.env.example`](.env.example) y configurá las claves `EXPO_PUBLIC_*` según el archivo.
+Copiá [`.env.local.example`](.env.local.example) a `.env.local` y configurá las claves `EXPO_PUBLIC_*` según el archivo.
 
 ## Personalizar
 
